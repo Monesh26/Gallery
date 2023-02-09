@@ -1,0 +1,149 @@
+.logo {
+    display:flex;
+    column-gap: 2cm;
+    
+}
+.header{
+    display:flex;
+    column-gap: 2cm;
+    margin-right: 20%;
+    margin-left: 20%
+}
+.header2 {
+    display:flex;
+    column-gap: 2cm;
+    margin-right: 5%;
+}
+.topbar{
+    display:flex;
+    column-gap: 2cm;
+}
+body{
+    margin-left: 6%;
+}
+span{
+    color: grey;
+    font-weight: lighter;
+}
+.images{
+    display:flex;
+    column-gap: 0.2cm;
+    margin-right: 0%;
+   
+}
+.main{
+    font-size: 1cm;
+}
+.prt2{
+    display:flex;
+    column-gap: 0.5cm;
+    margin: 0px 10px 30px 0px;
+}
+.images2{
+    display:flex;
+    column-gap: 0.5cm;
+    
+}
+.prt3{
+    display:flex;
+    column-gap: 0.5cm;
+    margin: 0px 10px 30px 20px;
+}
+/* .images3{
+    position: relative;
+    top: 0;
+    left: 0;
+} */
+.f-1{
+    
+    width: 30%;
+}
+.f-2{
+    display:flex;
+    width: 70%;
+    align-items: center;
+    margin-left: 10%;
+}
+.para{
+    margin-left: 10%;
+
+}
+.container{
+    display:flex;
+  
+}
+.buildingtop{
+    top: 50px;
+    left:5%;
+    margin-left: 10%;
+}
+.buildingdown{
+    top:50px;
+    left: 5%;
+    position: relative;
+
+}
+.pimg{
+    padding-left: 0%;
+    margin-left: 0%;
+}
+.bimg{
+    margin-top: 20%;
+    margin-left: 6%;
+    display: flex;
+    column-gap: 5cm;
+}
+.p1{
+    display:flex;
+    font-size: 0.5cm;
+    color: grey;
+}
+.p2{
+    display: flex;
+    margin-left: 5%;
+    font-size: 0.5cm;
+    color: grey;
+}
+.one{
+    color: grey;
+    font-size: 3cm;
+    font-weight: bold;
+}
+.two{
+    color: grey;
+    font-size: 3cm;
+    font-weight: bold;
+}
+.conn{
+    color: grey;
+    font-size: 1cm;
+    margin : left;
+}
+.connect{
+    display: flex;
+    padding-left: 170px;
+}
+.connect img{
+    width: 80%;
+}
+.form-head{
+    font-size: 5vh;
+    padding-left: 25px;
+}
+.form-element input{
+    width: 300px;
+    height: 30px;
+}
+.form-element textarea{
+    width: 300px;
+}
+.form-element button{
+    width: 120px;
+    height: 40px;
+}
+#ok{
+    width: 30px;
+    height: 15px;
+    font-size: 10px;
+    
+}
